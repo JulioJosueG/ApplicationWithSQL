@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993780424706",
+    "project_id": "appwithsql",
+    "storage_bucket": "appwithsql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993780424706:android:4beb8d3dfa3dd4e613471b",
+        "android_client_info": {
+          "package_name": "com.example.applicationwithsql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993780424706-154dirlhm2mo9tir9tcp0khhounv2145.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTtYANYCcm-p9gMJeRERe6UhjQ4EmH0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993780424706-154dirlhm2mo9tir9tcp0khhounv2145.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
